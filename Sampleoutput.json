@@ -1,0 +1,282 @@
+
+{
+
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Moneycontrol",
+                "title": "Trade setup for Tuesday: Top 15 things to know before the opening bell - Moneycontrol",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONlJEZlRMSG80V3dsRE9jeEowTlhuMUwzX0ZfWjRzSzNRTXI5aDlqaERDY2NIek1oVlk4UFdtQjFLa2ZuU093SWI0SlBDTjdtM08zZ2RjaDF5bXJZZFROLVlaUjFheFhFTWJhT1JOVGdtZVloMHBtN2ZCelFsMDFJRy1zMElSLUNEUV9PZlJhUm1PZkpTcVpLU3VRenZCWEZTTFJUdFluVV9KcVFJNFFLRjJvRzVJRkltM05pbUxIcWMyRS1lblQ3UDJWYVFhU0JfcEVB0gHYAUFVX3lxTE1YVzcydWItajQtMW1Vd2ZOU29acE9PQVhUYmNfcXNjemxxMlZnRngzbTBMQXdnQUc3LU1rZ1dYVjBQVFNUcE1KRlIyelVQWXJYSndJckxWQUw0SU02RDYxT2hRbzRRRUFqTTFPZzF0Zk00SGtXaC1HVnVqdW0yODJiOThWakxOSzNaWkRweGZQcWlVTFdOMzVzNFRKMmFYaDVlTkFVQWE3RG9UbkpxN3FLSENNSzMzakx5YlpVSFlUd01HYlprcVlROVM0c0l6WllhT1BXWmhneA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T16:28:39Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "The Economic Times",
+                "title": "She succeeded in 'pushing away' Sony from merger: Zee's Subhash Chandra levels allegations against SEBI ch - The Economic Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOM2Z2VExmX0ZfWFJaYmRqbVoxNEdUU3VpVEFFb0hKOFg4aFNZZ2sydzhoRF9mSFQ0ekdrMnlpc0xGOGx4bHU3ZW5nMHZabG1fZXlLOV91WTMtdkJWOVEtMnV0SXRsQWFsdHV6dl82S01SMUwyaEtBWFdTaFZLd01GNl9BWGdRdVo4aGR6SERqRHZ0LVpWS2M2NmhzT09NSThIaUd0bXB4dFNfTUNYRTZ2WmNSWkFqMUFjNjJ1aGd3dlhuNThiNkRDWUl5NHd3TzRleDFmTUtKZExsdEx5LUJvM0ZoaDNfamtHaWY2Q1dFTmFvS0pHRW9IRGdCWHJCZXUya2RZT2ZZLUlpS2RPV3JVXzVQaTV3QUxqWldwR2dWcWo3WGQ0R01kbmpYV1VIVk5RVXpabFJfb3ZfY3FCaG9n0gHEAkFVX3lxTE9IbU1abDh0aDFKcm5fckdyZ2l1SlVvV0hWQ3JXQTVyanVVWW1HYkRyRVJxTUJ6VEdxRW1XSEpqcEFIT2o1RUgwUDV0SUtiS2EzUC0wZnc5VXc0cG9GLURQQzVUSFNObW5RaTlJWm4xOTF4eGFOVTlFS3VzMzdOWnF5dW5EUVRJTjdSSlc1YlhkOHJXazEzaFZHM1JTQjlxZS1iVjQ4NGllSkxkd3BPWFJqblJjOXR3TGMtcDhvQk5GcHV6U0lJb05Pd3M0dWc5TVpXcmdhRFBnSjl6UE9kYkFCdGJoN0dKallrcjVwWjRuT01rRU85RlhGVlktU1VxbVMtRkVpMFdDMVg0TmFKQ3hyTzV1aGFHdEd1a3RzNVNiVk1yVzh2bHYxREE3VVJfa1lSZWVOR3QzNXl3QzFBaFV0cjItWg?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T16:04:35Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Hindustan Times",
+                "title": "Cabinet approves fifth semiconductor unit in India - Hindustan Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDBwTllJYTRZOG5tc0QzUWhSY2ZMQkpFQzVYdXZtY3JKcXV6LWU2UmlPY1pOd0dvOXZDY1FENGxkejJvdHBZYXU1d2FDN2Nsa3ZxSTFFdV9vNWgxbnJGV0FnZkR3cElQcDREcFNjOHNRdUNFbmc3WnRqZXlwTDRPN1VLXzM3cHpBOG1mVHVMd1NEMm5uVDdsVmpxTmhKOGZTbUtzVXZTb0I1VHNCSkMwbmpQRdIBuAFBVV95cUxNXzYxRnlCdkw4V1RMNHZLRDgxbVpTaUdqTU5rYTdYLUV5N0I5dGFqR29mSVBEX2Q1ejUyTUxOMDlsNGpZUWRmbW5oSUNyeVpYZlBpUkR6QlhmUHJyYUwzRkpnYXhObFRaUl9mU2FNeTdJQm1pTDZLeTNTa0d4c2pWdUljQXByTlVDX21YelktcUNiQlJpUmFhNm1RckZHdlc1MDhoNEJnV2JPU1ROUG1iai0xeUlOTU84?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T15:21:33Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Mint",
+                "title": "Bazaar Style Retail IPO subscribed 4.6 times on day 2, GMP falls; check subscription status, other details | Stock Market News - Mint",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0FHZkFURzRQcVJpaENKVWYyTUJ6OXFlTmIxZmE2SExxVllKcVdpT3g1b0VLSTVuN293Ui15ZlpYLXRWNjgzLWFabjYzazFIWGFHY3pMeDFGaC11aXltVEliQU1ySGlmeGd5Vnh1Qko0QjE1Yk5PekczbzhQWEt0WG1hcXNIVmlmUS0xZENTUDZOcTkxMXVaX0lDb1hselJScnFQT3ZBWkNMcnhwSlh2b3RFSS1qN3VodWl4Y3pDTUdVR3BESDhYZTYzYTlmX0Q1NC0tTDA3WXdnSVhjTHBfNVdQSHp6UVdoeUU1dUYwa2TSAfYBQVVfeXFMTXRQWGhhai1uSjgyME9ycXNJSHNmcVl1TXRFa3Z1N2JvS2RIOUROMjBoN0JBMUpBMHM4R1g5N1pmOEtaYU1YRTByOXJJTGZOUGkyZV9UOFU5eHdPYkYzd1F5RDRlZWRPZ1pRSmoxeDhpZVZoaDhfZnY4Mm93cDZocWN1clFIeXB0YjZNVkk5a1ZZb05haC0tdEwyNHFnQm9za2hrQVdOLXFseTZOTHpYNkdKRnVyYUpIS1J1aDExMDhULTIzbGlCTVhUYWxQV2hfY0dWWjdWdV8wdk9iWmU1RTByUFVuNXRZLUVSc1BIclVxWTQtWDFB?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T14:49:25Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Mint",
+                "title": "Sebi puts JSW Cement's ₹4,000 crore IPO in ‘Abeyance’ | Stock Market News - Mint",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkkxYUU4MlRkSXcwejUzbVAxTnVZZWc0QVlWdjZObTV2WE1ZSW5Hdy1aQTFjS042N1NwckExaU81cmhBQ2d6eFk0QXlITFM0YWtBeDhuanZ4ckZGcUtOb1RwVTRpV1RCLXYtQS1BanhjblZTTjQxU3VIeFQ1Tl80VHFsWExlSUk5YThMWlQyS0U4aW9HN3dYYlRZZ2F6VVNKcHEw0gGoAUFVX3lxTE0wWUdIdkNkbmlhWjV4LWUtWGdpdjFaRmdQM0p6N3lSN1RWQU5pRTBLNkw1RE42NGJwRDFaVUNnVXM0MUtJcjFaOGVFMUZ6NndqSGYteXBxQU9KdkVSem81QzdLSkpUZ2I1Tmc1d29Xb3RnN25nd01pbFlTUXJUNVlhWXhRVHBrLXpramF2MmtjWFJoWks1S2VVbjZKMnlFSGlwOVR3ZW9CSQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T13:52:27Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Mint",
+                "title": "Over 50% of IPO investors sell shares within 1 week of listing: SEBI study | Stock Market News - Mint",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWlDZUxjMjlQLVNjcHdsaDA1WTVhSDF5b1Vid0lydnRQMDNCYVpVRFVzNjhpckRVY0FUNExXOTctRm9YWnJQNWxWWDJiSFJNam1lN2ZPdWNFX0dpLUhPZmRmZW1RSkxnQ2FPUkJxN3VFa0U4dVM3RG9RUEt3Slk3NlBfdk5hWVFiVnRLRjN5b2RMd0N4U1RjaC1XN3hkcjFmaGM1a0J4VHV2WG1mVnFlck1KX1FNZVFqanNFT3JBdUVTM1JSVm9v0gHMAUFVX3lxTFBlZ3kweExMd3pIazJvay1OSTNlb1h5ckJzRXpQcTdudUhTT3ZrQ3FwTExydS1PYW1LdGlCUDRZNTRfWWlZX0cxQjdYM0g1TjJEYU1HODNhdEE3RV95WUxnX04tZWZ5cm1QdFlKOHV1Q3g2bHZCNVYwYkNSZDBINVk4UHRRcEJPM25fU3h0WjVRS1FVWFZKaGtFLTZvRzFnREFvWjFoVVNyUlNxc2tkbzdKYWt0aThkVWRlT1Y4ZkFTYmJGbEJzNnY1QTlEMQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T13:06:05Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Business Standard",
+                "title": "From Google to Amazon, TN turns top AI destination for global majors - Business Standard",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajhic243ZU42V1g3MExYbGk0bms0Vk1wWTJNUncwd1ltaVpRcEJscENlOEtyYWlSb2dYNG5CbGlkRGZENnpZODRWdXR3VHc2Tlc0Q0JKY01YOWJEbTBERmlnbUNFby1aSHRfUFhMbTMxWWhCMkhOVDRyd202a080RkxGSmVLYkptUmlIWGFCYThnSEFhM1o4VHBKV2VYY3ZCSzRnYmxfdXg5MHBtZ0pSTkFuQkc4aG1mdWVJTXloSUQxT3VXaFcxWXBueVJUU1RoQ2fSAdcBQVVfeXFMTU9LcTZCRHhqOGRHLTRoUDJwMURyUHJnSk9ZMndNWEQweTg1SDA3MFc1MjBMc2dXSHo2T1g5Ym9qZmZ1S3E5a01md0ZlaFR4NDBqTHZ2c1ZoMHhQVEdoMmlRTVZYdnJRcjRjZ1JSMjctdEtSYl9zVGk5TXVKUU54VXVFeHdOUDYtMFFZclZ1bG9ibnVtTlBGcVFDVzFpSGY0N0d1Wl91TzVINkN1OTE1M1h4YVJHRU84cHhueFpZM1Qxc3p4RFZfbGxqQXRaOHhjODd6bW94ODQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T13:04:37Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Rediffmail",
+                "title": "Honda Motorcycle Sales Up 9% in August - Rediffmail",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1pSNDZkbUpCOUxLMExPUjZnS3BOMjZiaG1EV2NHN1hrS2Y4YWU1OC1ibDJJUWhlaEtIMjhTWjhibHpvUDFXcXM2VERseHcxTjBuQ3ZsZTl1RWkxRGxkQlJFRGxWVjNBT2ZYN0gwdDB1RmQxQW5yd3NnRzBSaC1fbzhwSGpMbWwxdm16bnprdDlVRW_SAZgBQVVfeXFMT241NFF4eURIRnFjVktrSVZBd3pUcWlESGZ2MkhHbXZRWkVueGlkaEUzbmNkMU94WkhobFlVMDBHMVIzRFRHN3FGRFZXZnV0c25zUUswM2kyRnZKTVp2aGRSZnFPdzY1R05XLVIwanNOS0tRRzRwb2JyUHNrenNqV2hZSzRHZ2FLYUF0bnlRR2ZJb1F4Z2hxd1k?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T12:58:48Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "CarToq.com",
+                "title": "Skoda Slavia And Kushaq Monte Carlo Editions Launched, New Sport Line Variants Added - CarToq.com",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0JDREw4OHBER3c2RTNqcGRRcVBFT2RWWXBIa0YxTTNUMmhQc0tlYmdSRGtUa3V6S2VpbHdNa0xXWDg1aG1tbFBUOHJRM2ZYdG81cU8xTE9SRzBZVkpPcno1NnlaS01KRFhtdmxzeC1BRF9oT1JKLVg3QnFZTU5sc1dVeVZ4bDBUMjdvRE1SWjVXQjZkalFNM1RVQTNWcGRXQXRSd9IBqgFBVV95cUxNdW1nMnEzYldMUndrWkF1ZGVFT0VTSVkwS2EyU1VKRG9RLTZtM09sVDNfamxGTkcwRThZZC13UTJCRmtXbVFxZGdtUXB6QnJmdGdOdGFFYkI2dkJ3OWIzekVOTkZfVWlNYnZTRDFVUkcxZi0wNktrcVVZWjRyT2hhUWJzNW90Z0hrU2hUZEFxakd4QjBuc25kSXV5ZjNqT2NLX3UyZmNIeV9UUQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T12:22:30Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "GaadiWaadi.com",
+                "title": "New Hyundai Alcazar Facelift Gets Level 2 ADAS - All Safety Features Detailed - GaadiWaadi.com",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUpKS2xfQlBLR2ZBenJNWXlTajNBNGpvcDc3ZVhFU09VZjh2cFV0S2xzVmFFNXZPeFY3WUZKOXJTQWZEZ0ZxS01VLUI4NjVTOUJZMXQyZlMxZEFQLXBCNi1tMmMtdU9nSHlKdm9aajlyRktCczFkMUoyUUZFZlVaRWs1QWZoR0o1RzBrV21oTjJ5RzBaSmdxZHEtYUIzRkJW0gGmAUFVX3lxTE01NnBZdUt4M25sT2M0SWlFX3pxakFaZG9oQjV5eS1oTzVIenp2Q2NwUWR1V3Q2ekFpTDh3bURoNDkzMmotNVJ2WWs4X2x2V0JjVG1ZOUoydlNza0RGY184cUdxQ1Awd1FXVXczMk9jU3M2U05TOUVvc00yWFZoT1duN05KWk1LM0NiNllfQndCb2FXazR6Vl82WWRDUzlVb1lEZ1FGUEE?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T12:10:14Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Moneycontrol",
+                "title": "SME IPO frenzy: Sebi's Ashwani Bhatia says rigor lacking, venture capital a better start - Moneycontrol",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzRUTEV5UUowaTVSZFUwb2NkaUNUQ0x0aTJJejBNZDdXb24tTV90RTRTSHhkZmF2VTVoc3R5VXRyNUh4MDhVZUVLRDZBZ0tZdGVpajBqdjU0Sm0zdXEtNW9NSkhkR0lRLWJtRU9qX0JUNjBLSVBPaUlrYk03aDJzMjRCM2diU0h3bXZ2QzJteHpLNGx2VkZWdTdoMTdfcXBmdG13TVJfRUtueGZMVHk2QmhWa2pkMFBvRVYtQUJWdWN0eHhud2tGeV9PVm5wTGtqQWphSDYtTS1iZmk2ZS0yNHB4Z0Y?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T11:50:53Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Mint",
+                "title": "Nifty 100 vs Nifty Midcap 150: Which index should you pick for long term? | Stock Market News - Mint",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3FFUnZReGJoZzE5MlpXQTBEOTdFSkVYcnNhR3NBZjluWTZHS2dXQ284TDlWb1FHSFlnYlNjb2FIMVprZ1hrdTg4QmJTNGR1eDh3SVU0c0l0X0Raa3QwRWlzdTliOGZWV1FzNWs5bl9hUVhPODlCVnRPX3llVkd5SVlzUGJSb29sOWNRYm1mRHJvU1NqZ0VMLXpwc3BOYmR1LWM2M1Fja3lrbldkb0hjWnQyOEVhSnBxSFlQTDBXdExsSkgzVFFkVGdSM3d5Q1NxSmFIRmhzYnjSAd4BQVVfeXFMTnZjcm1ZTFQ0Zkp0T0lIaTZxM1lSRGFmNFhDbHdkMUlxb0xLOXN2RzRidUZyRm5ZYmtEWVVyR2JHZWNlYlZnSV96ZEVZR2FTTkpITlNSeFpibC1JcmRELVNHN1J3ejNlQXV2TXY3LUxDQlBkQVhKWUdBMnViUFp3c1MxLV9sQTFIR2lPMGRqZHc5OHJIVElZMmRfQnVlWVM5dlVSTTJkMG5XaE94WG9hR1JwUnQ4d1ZqamZnRWRBemg1S0dmU0lENTVuRWtVSm9Ib2t0b3JrWUVqTkY3aVJB?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T11:47:03Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "The Economic Times",
+                "title": "Vedanta board approves third interim dividend of Rs 20/share. Company payout at Rs 7,821 crore - The Economic Times",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYVJyVE0taDdpQ2hUREZUZ05pcFBOYmo3TElKck1aSDF6eE16WHJxejFSY0thS29mMGNyUDVyOXZ1eWNCTjN5c0M3TVg1X3Zjb2l5RzFFSENxV3VxVDFydzhOYm5fNnJUYkU0NVplNjVGTGNEaTBGRmxQTHNxQXFxX3haQ20tT0VUTlFXN3ZOa3NlNm5yTGhNZmRRQzZzUF9lNW5EVEM1SC05LXZtZF9tSHBJNW5USTQycDkxRWkyNFdlSGJfUmZVbGYtenJpaElwaXBNQlF3NlhxZW1ZVUY1dWh6Z0VoN20xVVdZbUgxZGpJLWNPa0hkTTVB0gH_AUFVX3lxTE1OYmVDdml0bndIUjN6eUtxR2JyOElYS2lnV3AtSmplNFZ0dHdEQzBTNmFIWVc0WWNtTlhXWXN5cmJkcUswU2lBNXJOcVZGX29tTUNKUU1ONWpCUm0wTXNremZwb0NaRUF6SXpvS1lrZ050dXZ4WDg4TlZ6NFlCb1Q3eFJaY2ZnaTZfYmgzS3NrZzBDb3NBczdBbFRYSEFzdHMxNDNZXzN3dWd3blRHdTBYbTZIQklKT1ljVnVWTEFTYzd5U2lyYkFMOE9WOVpqR1pyU09KYVFKNjV4a1dkdVVxTWNPdkNpUDEwNFU2cmhSQ05VS2RHalRtc1FuR1p6TQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T11:37:58Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Upstox",
+                "title": "Jio Financial Services surges 7% as firm to launch home loan product soon - Upstox",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM3FITU51MjRONm1qUFk5MmU3bHJfcHJXUmNGV1FGcGZQT0ZpaW10ZHFEZGhpdnY2UlVaZWhmaVBOZTZPUE84ZG9Sdng3bFVmbFFQbVNMSjFybF9sZl93V05pVlRfN0dsNVRxZ2kzVGk0UVJfZE5jNEFjTXhxUzJrS3hGam54dkxkZUJmdTNqU0VXekk5RVREYklxTXFNRktqb1p5TkxWVHZuUDJsUWx4NkFOWE52NnpCbUw5V0dfa29VQkhPS2VELXVBSQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T11:05:40Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "CNBC-TV18",
+                "title": "Will Not Invest In This Market, Continue To Hold What I Own: Vijay Kedia | CNBC TV18 - CNBC-TV18",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CCAiC0ZnSV9SOHdvNmJVmAEB?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T10:09:13Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Live From A Lounge",
+                "title": "Things to Do Today: Book Your Club Vistara Redemptions through July 2025! - Live From A Lounge",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVVnbXhEZ3dfUGhhQTZITTdZd0RsTHkxaU5ldDF5RTNWSHFyOHFzNmQtLUNLdHVSTXR1TUNqYWFQOTJkZG1iS3Z1eDRyWjlRTDVOMXNWNVpZcVgxcjg3WG1PMHdFSlFmUDB1UGdlZ1VONFpZU3FHdGN4XzhSaFAyZHZFdEFWZVYtdVcxRWpYM2NMZw?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T10:05:42Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "TechCrunch",
+                "title": "WazirX customers unlikely to recover full funds after $230M heist - TechCrunch",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcm1lXy1oc2VUWnJnc0J0M0pmREd3MGRCM3VDanNuMWRKODlwVmZhdy0zakRWSjVDcnZoWWRqYTdVU25oUGxaSmNCUTluR1RuZzdZYnBVQVNyOGFhcVBKRjRHSmswVHQxWHQ5WjlUaS0xX2tORmhMUndldHZTVWFDcWVJNEtJbFlTZ1Bvc2hveDJ6cTVsZDVQdHpJRXhHakxfd195U3hpMjk3emdw?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T10:05:01Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Moneycontrol",
+                "title": "HDFC Bank, JLR India sign MoU for auto financing - Moneycontrol",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmw3dllrUUpNUjRZLWEwMmhtWjZkN2JLUzN1WUFEaE5WZEdfNlRvNXVWYU9DUUdtU2Z3ZHFlNFBfVDFUMUY4dTBCSjliNmFzYW9iM0ZaeU41TTlvdlhEMmQxMGNDcVdxUWROY2VfVDFPd1dRSnRvWXVpeEw1bXB3YkNRNXhadGczSnlWWUlIUUNrcEhsVUFFZzJvd01aLWNQMkFHakJLeTdFM3lVVFZv?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T09:57:23Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "Business Standard",
+                "title": "Premier Energy IPO listing prediction: Will strong GMP fuel 100% returns? - Business Standard",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFhRTE1YbC1pQVdMYVpnVzBjRWY2eHJRZF9ZV1NLLXc2VUhLbUNtM0JUN1VibWdfYlVScGRTSXdzSEpmeUwtQUxDY0N6MnplNW1PSEV5azhrODRydmZxME12M2VjeGxQQldPRl9NZS0tME1kZy1RdEZtR2dLc1Q0MkhFbHpjNm5TU3lIZHkxN0FYdTFxTk1hZTBuWUpON3dFWTV2d2dWeXoxWjdCdW41TjFWR2xHQ1BBVEpkeFVjMkhyOE5Ea2VKTFF1QmtMZzZtcThF0gHYAUFVX3lxTE9SaUdXY0pFOGRWekV5ZGlRV2RzTGFDa3Y1TGIwQnFFTW01eVdodnBjOFVNeE1NWDVkOG5nVW5TRTZlcjNmSUhOZkpVTGVYYm1telJ5T2l3bnphYzIxNFNTX1VSeF92ZlVHbm8wZjU3REhkMzB4VldoVlIyeXVXdUxMZEFOODlXbDVReXZIZUJNeEpZUWY0d3lDX1J4ZjNHZjgwOUh0Ym9LeXJXSEd5U1Rab3AxWl80aWhxYWhZanVWVkF6ZUlYaDUtSGZyQ0VfSXpPbmtocndTZQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T09:48:25Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "NDTV",
+                "title": "Royal Enfield Sees 5 Per Cent Drop In Monthly Sales For August 2024 - NDTV",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbkhkY251RDBjMUNmQ3RiSk5mTFBOVm13c3NnUm9QZ2tvbFFBMVF0a0NvNEgwekFYWklJQmVKd3E2Z3FPRm53c3hoWkpKbVV2NV90UHp6YTUwbXAteERZVWFncmFOTGxSM2RfQnVLMHB2UGRLdnRsZlB2UVA4SWV3MWlVU3o4SkQ1WHFqWGNEbno4YWU1cTdldmxFLUtROF9xTFln0gGrAUFVX3lxTE42QVRWRjJYYk5zTGxWVGxycHppdGQyYllVVlN4M2NNd3J2ai03dWRNNGp3ZFE1Z216VnJwMXBKWnBoSmR0aHliNlJ0M0FIVU5ESjBmV1NqYTcyWmtxRzYwTkc0MjR1UlJ4dVhIa1IwUkE1MmNlZ0hURXhybzNQRDNGaDYydGEwZDd3MzdmMDFTNWNlckNwb1l1czdPd1ZoQmU1ZmpSQTJSd0QxOA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T09:39:28Z",
+                "content": null
+          },
+          {
+                "source": {
+                      "id": "google-news",
+                      "name": "Google News"
+                },
+                "author": "The Washington Post",
+                "title": "India’s growing reliance on China poses challenge for U.S. trade strategy - The Washington Post",
+                "description": null,
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGZITXU4SXlyY05hMTFURnYyaHFaRWxMUEhmRnFrM2dEWURGSXo0N244Y0ZOVlVqd3BvdFVFU1lzaVZWZ0hHRGZjcmZ5MFZHNDBrcWozQWdCbVhDNDNZbktfbUQ2ZGVuUEczQUVHelZTcXByNUVmZlBqdHkyanNha0ZVS3AwTndESUwtZWUweHp3QQ?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2024-09-02T09:27:09Z",
+                "content": null
+          }
+    ]
+
+}
